@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "module": "surahs",
+  "items": [
+    {
+      "id": "surah-112",
+      "surahNumber": 112,
+      "nameBn": "সূরা আল-ইখলাস — placeholder",
+      "arabicAyahs": [],
+      "translationBnAyahs": [],
+      "audio": null,
+      "reciter": null,
+      "source": "Quran Arabic: Tanzil Project (verbatim text and required attribution); Bangla translation source/license must be separately verified",
+      "status": "todo_import_verified_tanzil_text_and_licensed_translation"
+    },
+    {
+      "id": "surah-113",
+      "surahNumber": 113,
+      "nameBn": "সূরা আল-ফালাক — placeholder",
+      "arabicAyahs": [],
+      "translationBnAyahs": [],
+      "audio": null,
+      "reciter": null,
+      "source": "Quran Arabic: Tanzil Project; Bangla translation and audio permissions pending",
+      "status": "todo_import_verified_content"
+    }
+  ]
+}

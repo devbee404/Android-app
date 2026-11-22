@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "module": "duas",
+  "items": [
+    {
+      "id": "dua-placeholder-001",
+      "category": "morning",
+      "titleBn": "সকালের দোয়া — কনটেন্ট অপেক্ষমাণ",
+      "arabic": null,
+      "pronunciationBn": null,
+      "meaningBn": null,
+      "reference": null,
+      "audio": null,
+      "source": "Hisnul Muslim Bangla edition; exact publisher and reuse license must be verified before adding text",
+      "status": "todo_verify_license"
+    },
+    {
+      "id": "dua-placeholder-002",
+      "category": "food",
+      "titleBn": "খাবারের দোয়া — কনটেন্ট অপেক্ষমাণ",
+      "arabic": null,
+      "pronunciationBn": null,
+      "meaningBn": null,
+      "reference": null,
+      "audio": null,
+      "source": "TODO: verified hadith source and reuse permission",
+      "status": "needs_scholar_review"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Add the licensed NotoSansBengali-Regular.ttf and Amiri-Regular.ttf font files here, together with their SIL OFL license notices. Until then, remove the font declarations from pubspec.yaml or add the files before running Flutter.

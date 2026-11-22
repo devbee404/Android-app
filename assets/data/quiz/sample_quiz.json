@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "module": "quiz",
+  "items": [
+    {
+      "id": "qaida-q001",
+      "level": "beginner",
+      "questionBn": "নিচের কোন অক্ষরটি নমুনা পাঠে দেখানো হয়েছে?",
+      "options": [
+        "ا",
+        "TODO option 2",
+        "TODO option 3"
+      ],
+      "correctOptionIndex": 0,
+      "explanationBn": "এটি কেবল UI পরীক্ষার নমুনা; প্রকাশের আগে শিক্ষাগত যাচাই করুন।",
+      "source": "In-house question based on qaida-001 sample; needs scholar review",
+      "status": "sample_needs_review"
+    }
+  ]
+}

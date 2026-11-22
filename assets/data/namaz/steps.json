@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "module": "namaz",
+  "items": [
+    {
+      "id": "wudu-001",
+      "titleBn": "ওযুর ধাপ — placeholder",
+      "order": 1,
+      "category": "wudu",
+      "image": null,
+      "imageCredit": {
+        "author": "TODO",
+        "license": "TODO: CC0 or CC-BY proof required"
+      },
+      "instructionBn": "এখানে যাচাইকৃত বাংলা নির্দেশনা যুক্ত হবে।",
+      "arabic": null,
+      "pronunciationBn": null,
+      "meaningBn": null,
+      "audio": null,
+      "source": "TODO: authoritative fiqh reference and local scholar review",
+      "status": "needs_scholar_review"
+    },
+    {
+      "id": "salah-001",
+      "titleBn": "নামাজের ধাপ — placeholder",
+      "order": 2,
+      "category": "salah",
+      "image": null,
+      "imageCredit": {
+        "author": "TODO",
+        "license": "TODO: CC0 or CC-BY proof required"
+      },
+      "instructionBn": "এখানে যাচাইকৃত নির্দেশনা যুক্ত হবে।",
+      "arabic": null,
+      "pronunciationBn": null,
+      "meaningBn": null,
+      "audio": null,
+      "source": "TODO: authoritative prayer reference and scholar review",
+      "status": "needs_scholar_review"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "schemaVersion": 1,
+  "module": "qaida",
+  "language": "bn",
+  "lessons": [
+    {
+      "id": "qaida-001",
+      "titleBn": "আরবি হরফ পরিচিতি",
+      "order": 1,
+      "lessonType": "letters",
+      "descriptionBn": "আরবি হরফ চিনুন। প্রতিটি হরফে চাপ দিলে অনুমোদিত অডিও থাকলে শুনতে পারবেন।",
+      "items": [
+        {
+          "id": "letter-01",
+          "arabic": "ا",
+          "nameBn": "আলিফ",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-02",
+          "arabic": "ب",
+          "nameBn": "বা",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-03",
+          "arabic": "ت",
+          "nameBn": "তা",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-04",
+          "arabic": "ث",
+          "nameBn": "ছা",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-05",
+          "arabic": "ج",
+          "nameBn": "জীম",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-06",
+          "arabic": "ح",
+          "nameBn": "হা",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-07",
+          "arabic": "خ",
+          "nameBn": "খা",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-08",
+          "arabic": "د",
+          "nameBn": "দাল",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-09",
+          "arabic": "ذ",
+          "nameBn": "যাল",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-10",
+          "arabic": "ر",
+          "nameBn": "রা",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-11",
+          "arabic": "ز",
+          "nameBn": "ঝা",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-12",
+          "arabic": "س",
+          "nameBn": "সীন",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-13",
+          "arabic": "ش",
+          "nameBn": "শীন",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-14",
+          "arabic": "ص",
+          "nameBn": "সোয়াদ",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-15",
+          "arabic": "ض",
+          "nameBn": "দোয়াদ",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-16",
+          "arabic": "ط",
+          "nameBn": "তোয়া",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-17",
+          "arabic": "ظ",
+          "nameBn": "যোয়া",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-18",
+          "arabic": "ع",
+          "nameBn": "আইন",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-19",
+          "arabic": "غ",
+          "nameBn": "গইন",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-20",
+          "arabic": "ف",
+          "nameBn": "ফা",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-21",
+          "arabic": "ق",
+          "nameBn": "ক্বাফ",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-22",
+          "arabic": "ك",
+          "nameBn": "কাফ",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-23",
+          "arabic": "ل",
+          "nameBn": "লাম",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-24",
+          "arabic": "م",
+          "nameBn": "মীম",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-25",
+          "arabic": "ن",
+          "nameBn": "নূন",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-26",
+          "arabic": "و",
+          "nameBn": "ওয়াও",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-27",
+          "arabic": "ه",
+          "nameBn": "হা",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "letter-28",
+          "arabic": "ي",
+          "nameBn": "ইয়া",
+          "pronunciationBn": "ক্বারির উচ্চারণ যাচাই ও অডিও রেকর্ডিং অপেক্ষমাণ",
+          "audio": null,
+          "source": "Original Qaida learning dataset; Arabic letter sequence requires qualified qari review",
+          "status": "needs_scholar_review"
+        }
+      ],
+      "quiz": [
+        {
+          "questionBn": "নিচের কোনটি 'বা' হরফ?",
+          "options": [
+            "ا",
+            "ب",
+            "ت",
+            "ث"
+          ],
+          "correctOptionIndex": 1,
+          "source": "Original question based on qaida-001 letter list; needs qari review"
+        },
+        {
+          "questionBn": "নিচের কোনটি 'মীম' হরফ?",
+          "options": [
+            "ن",
+            "م",
+            "ل",
+            "و"
+          ],
+          "correctOptionIndex": 1,
+          "source": "Original question based on qaida-001 letter list; needs qari review"
+        },
+        {
+          "questionBn": "নিচের কোনটি 'জীম' হরফ?",
+          "options": [
+            "ح",
+            "خ",
+            "ج",
+            "د"
+          ],
+          "correctOptionIndex": 2,
+          "source": "Original question based on qaida-001 letter list; needs qari review"
+        }
+      ],
+      "source": "Original in-house beginner Qaida curriculum; review required before publication",
+      "status": "needs_scholar_review"
+    },
+    {
+      "id": "qaida-002",
+      "titleBn": "হারাকাত পরিচিতি",
+      "order": 2,
+      "lessonType": "harakat",
+      "descriptionBn": "ফাতহা, কাসরা ও দাম্মাহর চিহ্ন পরিচিতি।",
+      "items": [
+        {
+          "id": "haraka-fatha",
+          "arabic": "بَ",
+          "nameBn": "ফাতহা",
+          "pronunciationBn": "উচ্চারণ ক্বারি দ্বারা যাচাই করতে হবে",
+          "audio": null,
+          "source": "Original in-house Qaida curriculum; qari review required",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "haraka-kasra",
+          "arabic": "بِ",
+          "nameBn": "কাসরা",
+          "pronunciationBn": "উচ্চারণ ক্বারি দ্বারা যাচাই করতে হবে",
+          "audio": null,
+          "source": "Original in-house Qaida curriculum; qari review required",
+          "status": "needs_scholar_review"
+        },
+        {
+          "id": "haraka-damma",
+          "arabic": "بُ",
+          "nameBn": "দাম্মাহ",
+          "pronunciationBn": "উচ্চারণ ক্বারি দ্বারা যাচাই করতে হবে",
+          "audio": null,
+          "source": "Original in-house Qaida curriculum; qari review required",
+          "status": "needs_scholar_review"
+        }
+      ],
+      "quiz": [],
+      "source": "Original in-house beginner Qaida curriculum; review required before publication",
+      "status": "needs_scholar_review"
+    },
+    {
+      "id": "qaida-003",
+      "titleBn": "তানওয়ীন",
+      "order": 3,
+      "lessonType": "tanween",
+      "descriptionBn": "তানওয়ীনের অনুশীলন কনটেন্ট ক্বারি যাচাইয়ের পর যুক্ত হবে।",
+      "items": [],
+      "quiz": [],
+      "source": "Original in-house curriculum; content pending",
+      "status": "placeholder"
+    },
+    {
+      "id": "qaida-004",
+      "titleBn": "সুকুন",
+      "order": 4,
+      "lessonType": "sukoon",
+      "descriptionBn": "সুকুনের অনুশীলন কনটেন্ট ক্বারি যাচাইয়ের পর যুক্ত হবে।",
+      "items": [],
+      "quiz": [],
+      "source": "Original in-house curriculum; content pending",
+      "status": "placeholder"
+    },
+    {
+      "id": "qaida-005",
+      "titleBn": "মাদ্দ",
+      "order": 5,
+      "lessonType": "madd",
+      "descriptionBn": "মাদের অনুশীলন কনটেন্ট ক্বারি যাচাইয়ের পর যুক্ত হবে।",
+      "items": [],
+      "quiz": [],
+      "source": "Original in-house curriculum; content pending",
+      "status": "placeholder"
+    }
+  ],
+  "source": "Original in-house curriculum; all lesson material requires qualified qari review",
+  "status": "needs_scholar_review"
+}
